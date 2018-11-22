@@ -5,7 +5,7 @@
 //$db="emapz";
 //========
 $host='localhost';
-$uname='root';
+$uname='root'; 
 $pwd='';
 $db="zeroHunger";
 
