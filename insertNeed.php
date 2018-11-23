@@ -4,10 +4,10 @@
 //$pwd='';
 //$db="emapz";
 //========
-$host='localhost';
-$uname='root'; 
-$pwd='';
-$db="zeroHunger";
+$host='148.66.138.153';
+$uname='emergencyRoot'; 
+$pwd='emergencyPass';
+$db="emergencydb";
 
 $conn = new mysqli($host,$uname,$pwd, $db);
 
